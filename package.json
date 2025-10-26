@@ -1,8 +1,8 @@
 {
   "name": "calmforge-theme",
   "displayName": "Calmforge Theme",
-  "description": "",
-  "version": "0.0.1",
+  "description": "This theme is specifically designed to modify other themes to add syntax highlighting support for Rust.",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.105.0"
   },
