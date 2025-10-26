@@ -5,14 +5,14 @@ This theme is specifically designed to modify other themes to add syntax highlig
 ## Rose Pine
 
 ### Overall
-[](./pics/Rose%20Pine/overall.png)
+[](./pics/Rose_Pine/overall.png)
 
 ### Partial
-[](./pics/Rose%20Pine/1.png)
-[](./pics/Rose%20Pine/2.png)
-[](./pics/Rose%20Pine/3.png)
-[](./pics/Rose%20Pine/4.png)
-[](./pics/Rose%20Pine/5.png)
-[](./pics/Rose%20Pine/6.png)
-[](./pics/Rose%20Pine/7.png)
-[](./pics/Rose%20Pine/8.png)
+[](./pics/Rose_Pine/1.png)
+[](./pics/Rose_Pine/2.png)
+[](./pics/Rose_Pine/3.png)
+[](./pics/Rose_Pine/4.png)
+[](./pics/Rose_Pine/5.png)
+[](./pics/Rose_Pine/6.png)
+[](./pics/Rose_Pine/7.png)
+[](./pics/Rose_Pine/8.png)
