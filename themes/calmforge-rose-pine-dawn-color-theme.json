@@ -716,6 +716,7 @@
         // declaration 表示形参变量 reference表示引用 mutable表示可变
         // bc3908 bc4749
         "selfKeyword.reference": "#a53860",
+		"selfKeyword.declaration": "#a53860",
         "selfKeyword.declaration.reference": "#a53860",
         "parameter.reference": "#a53860",
         "parameter.declaration": "#a53860",
@@ -847,6 +848,7 @@
 
         "macro": {
             "foreground": "#6a4c93",
+			"fontStyle": "bold"
         },
     }
 }

@@ -2,7 +2,7 @@
   "name": "calmforge-theme",
   "displayName": "Calmforge Theme",
   "description": "This theme is specifically designed to modify other themes to add syntax highlighting support for Rust.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.105.0"
   },
@@ -14,13 +14,14 @@
     "url": "https://github.com/jiashumiao/Calmforge-Theme"
   },
   "publisher": "Jiashu",
+    "keywords": [
+      "rust",
+      "theme",
+      "Rosé Pine",
+      "semantic highlight"
+  ],
   "contributes": {
     "themes": [
-      {
-        "label": "Calmforge Theme",
-        "uiTheme": "vs",
-        "path": "./themes/Calmforge Theme-color-theme.json"
-      },
       {
         "label": "Calmforge Rosé Pine Dawn",
         "uiTheme": "vs",
