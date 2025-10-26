@@ -1,0 +1,26 @@
+{
+  "name": "calmforge-theme",
+  "displayName": "Calmforge Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Calmforge Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Calmforge Theme-color-theme.json"
+      },
+      {
+        "label": "Calmforge Rosé Pine Dawn",
+        "uiTheme": "vs",
+        "path": "./themes/calmforge-rose-pine-dawn-color-theme.json"
+      }
+    ]
+  }
+}
