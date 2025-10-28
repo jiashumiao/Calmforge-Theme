@@ -4,6 +4,18 @@ All notable changes to the "calmforge-theme" extension will be documented in thi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.1.5] - 2025-10-28
+
+### Added
+
+- Added semantic highlighting color of function and method.
+    - Because the original color was too light and lacked texture.
+    - The default static function color was used to overwrite it.
+
+### Changed
+
+- The color of Enum, struct and primitive data types is slightly darker
+
 ## [0.1.4] - 2025-10-28
 
 ### Changed

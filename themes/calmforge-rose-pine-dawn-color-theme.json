@@ -698,14 +698,30 @@
 			// [Ss]elf bc3908 bd613f
 			"scope": "variable.language.self.rust",
 			"settings": {
-				"foreground": "#da7a57",
+				"foreground": "#d8704b",
 			}
 		},
 		{
 			// super
 			"scope": "variable.language.super.rust",
 			"settings": {
-				"foreground": "#da7a57",
+				"foreground": "#d8704b",
+			}
+		},
+
+		{
+			// func:  same with semantic function
+			"scope": "entity.name.function.rust",
+			"settings": {
+				"foreground": "#b4637a",
+			}
+		},
+		{
+			// macro:  same with semantic macro
+			"scope": "entity.name.function.macro.rust",
+			"settings": {
+				"foreground": "#6d578d",
+				"fontStyle": "bold"
 			}
 		},
 
@@ -714,19 +730,19 @@
 	],
     "semanticTokenColors": {
         // declaration 表示形参变量 reference表示引用 mutable表示可变
-        // bc3908 bc4749
-        "selfKeyword.reference": "#da7a57",
-		"selfKeyword.declaration": "#da7a57",
-        "selfKeyword.declaration.reference": "#da7a57",
-        "parameter.reference": "#da7a57",
-        "parameter.declaration": "#da7a57",
-        "parameter.declaration.reference": "#da7a57",
-        "parameter": "#da7a57",
+        // bc3908 bc4749 da7a57
+        "selfKeyword.reference": "#d8704b",
+		"selfKeyword.declaration": "#d8704b",
+        "selfKeyword.declaration.reference": "#d8704b",
+        "parameter.reference": "#d8704b",
+        "parameter.declaration": "#d8704b",
+        "parameter.declaration.reference": "#d8704b",
+        "parameter": "#d8704b",
 
-        "variable.reference": "#da7a57",
-        "variable.declaration": "#da7a57",
-        "variable.declaration.reference": "#da7a57",
-        "variable": "#da7a57",
+        "variable.reference": "#d8704b",
+        "variable.declaration": "#d8704b",
+        "variable.declaration.reference": "#d8704b",
+        "variable": "#d8704b",
 
         "selfKeyword.mutable.reference": "#da627d",
         "selfKeyword.declaration.mutable.reference": "#da627d",
@@ -738,12 +754,11 @@
         "variable.declaration.mutable": "#da627d",
         "variable.declaration.mutable.reference": "#da627d",
 
-        "parameter.callable": "#d7827e",
-        "parameter.declaration.callable": "#d7827e",
+
 
         // bool 56949f
         "builtinType": {
-            "foreground": "#56949f",
+            "foreground": "#4b8f9b",
             // "fontStyle": "bold"
         },
 
@@ -851,6 +866,17 @@
         "macro": {
             "foreground": "#6d578d",
 			"fontStyle": "bold"
+        },
+
+		"parameter.callable": "#b4637a",
+        "parameter.declaration.callable": "#b4637a",
+
+		"function": {
+            "foreground": "#b4637a",
+        },
+
+		"method": {
+            "foreground": "#b4637a",
         },
     }
 }

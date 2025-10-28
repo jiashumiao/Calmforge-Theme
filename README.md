@@ -7,6 +7,6 @@ This theme is specifically designed to modify other themes to add syntax highlig
 
 ## Supported Themes
 
-- Rose Pine
+- Rose Pine Dawn
 
-[![Calmforge-Rose-Pine-overall-v0-1-4.png](https://i.postimg.cc/0240ThM8/Calmforge-Rose-Pine-overall-v0-1-4.png)](https://postimg.cc/rKS4WnNb)
+[![Calmforge-Rose-Pine-Dawn-v0-1-5.png](https://i.postimg.cc/c4398cP9/Calmforge-Rose-Pine-Dawn-v0-1-5.png)](https://postimg.cc/GHcJWvLG)
