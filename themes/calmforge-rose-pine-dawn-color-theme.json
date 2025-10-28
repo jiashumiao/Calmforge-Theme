@@ -695,17 +695,17 @@
 
 		// 左变量
 		{
-			// [Ss]elf
+			// [Ss]elf bc3908 bd613f
 			"scope": "variable.language.self.rust",
 			"settings": {
-				"foreground": "#bc3908",
+				"foreground": "#da7a57",
 			}
 		},
 		{
 			// super
 			"scope": "variable.language.super.rust",
 			"settings": {
-				"foreground": "#bc3908",
+				"foreground": "#da7a57",
 			}
 		},
 
@@ -715,18 +715,18 @@
     "semanticTokenColors": {
         // declaration 表示形参变量 reference表示引用 mutable表示可变
         // bc3908 bc4749
-        "selfKeyword.reference": "#a53860",
-		"selfKeyword.declaration": "#a53860",
-        "selfKeyword.declaration.reference": "#a53860",
-        "parameter.reference": "#a53860",
-        "parameter.declaration": "#a53860",
-        "parameter.declaration.reference": "#a53860",
-        "parameter": "#a53860",
+        "selfKeyword.reference": "#da7a57",
+		"selfKeyword.declaration": "#da7a57",
+        "selfKeyword.declaration.reference": "#da7a57",
+        "parameter.reference": "#da7a57",
+        "parameter.declaration": "#da7a57",
+        "parameter.declaration.reference": "#da7a57",
+        "parameter": "#da7a57",
 
-        "variable.reference": "#a53860",
-        "variable.declaration": "#a53860",
-        "variable.declaration.reference": "#a53860",
-        "variable": "#a53860",
+        "variable.reference": "#da7a57",
+        "variable.declaration": "#da7a57",
+        "variable.declaration.reference": "#da7a57",
+        "variable": "#da7a57",
 
         "selfKeyword.mutable.reference": "#da627d",
         "selfKeyword.declaration.mutable.reference": "#da627d",
@@ -741,113 +741,115 @@
         "parameter.callable": "#d7827e",
         "parameter.declaration.callable": "#d7827e",
 
-        // bool
+        // bool 56949f
         "builtinType": {
             "foreground": "#56949f",
             // "fontStyle": "bold"
         },
 
         "struct": {
-            "foreground": "#56949f",
+            "foreground": "#4b8f9b",
             // "fontStyle": "bold"
         },
         "struct.public": {
-            "foreground": "#56949f",
+            "foreground": "#4b8f9b",
             // "fontStyle": "bold"
         },
         "struct.declaration.public": {
-            "foreground": "#56949f",
+            "foreground": "#4b8f9b",
             // "fontStyle": "bold"
         },
         "struct.library": {
-            "foreground": "#56949f",
+            "foreground": "#4b8f9b",
             // "fontStyle": "bold"
         },
         "struct.defaultLibrary.library": {
-            "foreground": "#56949f",
+            "foreground": "#4b8f9b",
             // "fontStyle": "bold"
         },
 
         "enum": {
-            "foreground": "#56949f",
+            "foreground": "#4b8f9b",
             // "fontStyle": "bold"
         },
         "enum.public": {
-            "foreground": "#56949f",
+            "foreground": "#4b8f9b",
             // "fontStyle": "bold"
         },
         "enum.declaration.public": {
-            "foreground": "#56949f",
+            "foreground": "#4b8f9b",
             // "fontStyle": "bold"
         },
         "enum.library": {
-            "foreground": "#56949f",
+            "foreground": "#4b8f9b",
             // "fontStyle": "bold"
         },
         "enum.defaultLibrary.library": {
-            "foreground": "#56949f",
+            "foreground": "#4b8f9b",
             // "fontStyle": "bold"
         },
 
+		// 1a659e
         "interface": {
-            "foreground": "#1a659e",
+            "foreground": "#3876a5",
             "fontStyle": "bold"
         },
         "interface.public": {
-            "foreground": "#1a659e",
+            "foreground": "#3876a5",
             "fontStyle": "bold"
         },
         "interface.declaration.public": {
-            "foreground": "#1a659e",
+            "foreground": "#3876a5",
             "fontStyle": "bold"
         },
         "interface.library": {
-            "foreground": "#1a659e",
+            "foreground": "#3876a5",
             "fontStyle": "bold"
         },
         "interface.defaultLibrary.library": {
-            "foreground": "#1a659e",
+            "foreground": "#3876a5",
             "fontStyle": "bold"
         },
 
         "typeAlias": {
-            "foreground": "#56949f",
+            "foreground": "#4b8f9b",
             // "fontStyle": "bold"
         },
         "typeAlias.public": {
-            "foreground": "#56949f",
+            "foreground": "#4b8f9b",
             // "fontStyle": "bold"
         },
         "typeAlias.declaration.public": {
-            "foreground": "#56949f",
+            "foreground": "#4b8f9b",
             // "fontStyle": "bold"
         },
         "typeAlias.library": {
-            "foreground": "#56949f",
+            "foreground": "#4b8f9b",
             // "fontStyle": "bold"
         },
         "typeAlias.defaultLibrary.library": {
-            "foreground": "#56949f",
+            "foreground": "#4b8f9b",
             // "fontStyle": "bold"
         },
 
+		// 6a4c93
         "typeParameter": {
-            "foreground": "#6a4c93",
+            "foreground": "#6d578d",
             "fontStyle": "bold"
         },
         "typeParameter.declaration": {
-            "foreground": "#6a4c93",
+            "foreground": "#6d578d",
             "fontStyle": "bold"
         },
         "lifetime":  {
-            "foreground": "#6a4c93",
+            "foreground": "#6d578d",
         },
         "lifetime.declaration":  {
-            "foreground": "#6a4c93",
+            "foreground": "#6d578d",
         },
 
         "macro": {
-            "foreground": "#6a4c93",
+            "foreground": "#6d578d",
 			"fontStyle": "bold"
         },
     }

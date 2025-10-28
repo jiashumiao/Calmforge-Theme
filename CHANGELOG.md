@@ -4,6 +4,14 @@ All notable changes to the "calmforge-theme" extension will be documented in thi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.1.3] - 2025-10-28
+
+### Changed
+
+- The color of the immutable variable is softer
+- The color of Enum, struct and primitive data types is slightly darker
+- The color of type parameters and macro is darker
+
 ## [0.1.2] - 2025-10-28
 
 ### Changed
