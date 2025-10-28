@@ -8,7 +8,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Changed
 
-- Enum, struct, and primitive data types are no longer bolded
+- Enum, struct and primitive data types are no longer bolded
 
 ## [0.1.1] - 2025-10-26
 
