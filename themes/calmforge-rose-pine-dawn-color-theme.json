@@ -744,49 +744,49 @@
         // bool
         "builtinType": {
             "foreground": "#56949f",
-            "fontStyle": "bold"
+            // "fontStyle": "bold"
         },
 
         "struct": {
             "foreground": "#56949f",
-            "fontStyle": "bold"
+            // "fontStyle": "bold"
         },
         "struct.public": {
             "foreground": "#56949f",
-            "fontStyle": "bold"
+            // "fontStyle": "bold"
         },
         "struct.declaration.public": {
             "foreground": "#56949f",
-            "fontStyle": "bold"
+            // "fontStyle": "bold"
         },
         "struct.library": {
             "foreground": "#56949f",
-            "fontStyle": "bold"
+            // "fontStyle": "bold"
         },
         "struct.defaultLibrary.library": {
             "foreground": "#56949f",
-            "fontStyle": "bold"
+            // "fontStyle": "bold"
         },
 
         "enum": {
             "foreground": "#56949f",
-            "fontStyle": "bold"
+            // "fontStyle": "bold"
         },
         "enum.public": {
             "foreground": "#56949f",
-            "fontStyle": "bold"
+            // "fontStyle": "bold"
         },
         "enum.declaration.public": {
             "foreground": "#56949f",
-            "fontStyle": "bold"
+            // "fontStyle": "bold"
         },
         "enum.library": {
             "foreground": "#56949f",
-            "fontStyle": "bold"
+            // "fontStyle": "bold"
         },
         "enum.defaultLibrary.library": {
             "foreground": "#56949f",
-            "fontStyle": "bold"
+            // "fontStyle": "bold"
         },
 
         "interface": {
@@ -812,23 +812,23 @@
 
         "typeAlias": {
             "foreground": "#56949f",
-            "fontStyle": "bold"
+            // "fontStyle": "bold"
         },
         "typeAlias.public": {
             "foreground": "#56949f",
-            "fontStyle": "bold"
+            // "fontStyle": "bold"
         },
         "typeAlias.declaration.public": {
             "foreground": "#56949f",
-            "fontStyle": "bold"
+            // "fontStyle": "bold"
         },
         "typeAlias.library": {
             "foreground": "#56949f",
-            "fontStyle": "bold"
+            // "fontStyle": "bold"
         },
         "typeAlias.defaultLibrary.library": {
             "foreground": "#56949f",
-            "fontStyle": "bold"
+            // "fontStyle": "bold"
         },
 
         "typeParameter": {

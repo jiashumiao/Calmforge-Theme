@@ -4,6 +4,12 @@ All notable changes to the "calmforge-theme" extension will be documented in thi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.1.2] - 2025-10-28
+
+### Changed
+
+- Enum, struct, and primitive data types are no longer bolded
+
 ## [0.1.1] - 2025-10-26
 
 ### Added
