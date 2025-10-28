@@ -9,4 +9,4 @@ This theme is specifically designed to modify other themes to add syntax highlig
 
 - Rose Pine
 
-[![Calmforge-Rose-Pine-overall.png](https://i.postimg.cc/4dbCnMg2/Calmforge-Rose-Pine-overall.png)](https://postimg.cc/ZBRsMw06)
+[![Calmforge-Rose-Pine-overall-v0-1-4.png](https://i.postimg.cc/0240ThM8/Calmforge-Rose-Pine-overall-v0-1-4.png)](https://postimg.cc/rKS4WnNb)

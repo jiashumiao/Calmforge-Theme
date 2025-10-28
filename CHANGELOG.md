@@ -4,6 +4,12 @@ All notable changes to the "calmforge-theme" extension will be documented in thi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.1.4] - 2025-10-28
+
+### Changed
+
+- Modified the display image of Rose Pine theme.
+
 ## [0.1.3] - 2025-10-28
 
 ### Changed
